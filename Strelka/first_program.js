@@ -1,1 +1,1 @@
-console.log("Igor's first program");
+console.log("Igor's program");
