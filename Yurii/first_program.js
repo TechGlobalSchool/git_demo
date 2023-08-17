@@ -1,2 +1,2 @@
 
-console.log("Yurii first program")
+console.log("Yurii's first program");
